@@ -1,0 +1,215 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.95" />
+      <stop offset="100%" style="stop-color:#f8f9ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="800" fill="url(#bgGradient)"/>
+  
+  <!-- Header Section -->
+  <rect x="0" y="0" width="1200" height="120" fill="rgba(0,0,0,0.3)"/>
+  <text x="600" y="70" font-size="48" font-weight="bold" fill="white" text-anchor="middle" font-family="Arial, sans-serif">
+    AI Essentials Workshop 2026
+  </text>
+  <text x="600" y="105" font-size="18" fill="#e0e0ff" text-anchor="middle" font-family="Arial, sans-serif">
+    Learning Resources & Documentation Hub
+  </text>
+  
+  <!-- Main Content Cards -->
+  
+  <!-- Card 1: About -->
+  <rect x="30" y="150" width="350" height="280" rx="12" fill="url(#cardGradient)" stroke="#667eea" stroke-width="2"/>
+  <text x="215" y="185" font-size="24" font-weight="bold" fill="#667eea" text-anchor="middle" font-family="Arial, sans-serif">
+    📚 About This Repo
+  </text>
+  <text x="50" y="220" font-size="14" fill="#333" font-family="Arial, sans-serif" font-weight="bold">
+    Static Content Archive
+  </text>
+  <text x="50" y="245" font-size="13" fill="#555" font-family="Arial, sans-serif">
+    • Educational materials &amp; slides
+  </text>
+  <text x="50" y="268" font-size="13" fill="#555" font-family="Arial, sans-serif">
+    • AI fundamentals reference docs
+  </text>
+  <text x="50" y="291" font-size="13" fill="#555" font-family="Arial, sans-serif">
+    • Research &amp; resume preparation
+  </text>
+  <text x="50" y="314" font-size="13" fill="#555" font-family="Arial, sans-serif">
+    • Curated AI tools catalog
+  </text>
+  <text x="50" y="337" font-size="13" fill="#555" font-family="Arial, sans-serif">
+    • Workshop deliverables &amp; assets
+  </text>
+  <text x="50" y="360" font-size="13" fill="#555" font-family="Arial, sans-serif">
+    • No running app code
+  </text>
+  <text x="50" y="383" font-size="13" fill="#555" font-family="Arial, sans-serif">
+    • Public repository
+  </text>
+  
+  <!-- Card 2: Contents -->
+  <rect x="425" y="150" width="350" height="280" rx="12" fill="url(#cardGradient)" stroke="#764ba2" stroke-width="2"/>
+  <text x="600" y="185" font-size="24" font-weight="bold" fill="#764ba2" text-anchor="middle" font-family="Arial, sans-serif">
+    📁 Repository Contents
+  </text>
+  <text x="445" y="220" font-size="13" fill="#555" font-family="Arial, sans-serif" font-weight="bold">
+    Presentations (PPTX):
+  </text>
+  <text x="445" y="243" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    ✓ AI Fundamentals PPT
+  </text>
+  <text x="445" y="263" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    ✓ Academia PPT
+  </text>
+  <text x="445" y="283" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    ✓ Research &amp; Resume PPT
+  </text>
+  <text x="445" y="310" font-size="13" fill="#555" font-family="Arial, sans-serif" font-weight="bold">
+    Documents (PDF):
+  </text>
+  <text x="445" y="333" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    ✓ AI Fundamentals Guide
+  </text>
+  <text x="445" y="353" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    ✓ AI Tools Per Domain
+  </text>
+  <text x="445" y="373" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    ✓ Hands-on Assignment
+  </text>
+  <text x="445" y="400" font-size="13" fill="#555" font-family="Arial, sans-serif" font-weight="bold">
+    Assets (Images):
+  </text>
+  <text x="445" y="423" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    ✓ Workshop Poster
+  </text>
+  
+  <!-- Card 3: Use Cases -->
+  <rect x="820" y="150" width="350" height="280" rx="12" fill="url(#cardGradient)" stroke="#667eea" stroke-width="2"/>
+  <text x="995" y="185" font-size="24" font-weight="bold" fill="#667eea" text-anchor="middle" font-family="Arial, sans-serif">
+    🎯 Use Cases
+  </text>
+  <text x="840" y="220" font-size="13" fill="#555" font-family="Arial, sans-serif" font-weight="bold">
+    For Workshop Attendees:
+  </text>
+  <text x="840" y="243" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    • Access training materials
+  </text>
+  <text x="840" y="263" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    • Study AI fundamentals
+  </text>
+  <text x="840" y="283" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    • Complete assignments
+  </text>
+  <text x="840" y="310" font-size="13" fill="#555" font-family="Arial, sans-serif" font-weight="bold">
+    For Learners &amp; Researchers:
+  </text>
+  <text x="840" y="333" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    • Reference documentation
+  </text>
+  <text x="840" y="353" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    • Discover AI tools
+  </text>
+  <text x="840" y="373" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    • Resume preparation
+  </text>
+  <text x="840" y="393" font-size="12" fill="#666" font-family="Arial, sans-serif">
+    • Research insights
+  </text>
+  
+  <!-- Bottom Info Section -->
+  <rect x="30" y="460" width="1140" height="310" rx="12" fill="url(#cardGradient)" stroke="#764ba2" stroke-width="2"/>
+  
+  <text x="600" y="495" font-size="22" font-weight="bold" fill="#764ba2" text-anchor="middle" font-family="Arial, sans-serif">
+    📋 Quick Reference
+  </text>
+  
+  <!-- Quick Stats -->
+  <g>
+    <rect x="50" y="520" width="250" height="110" rx="8" fill="#f0f4ff" stroke="#667eea" stroke-width="1.5"/>
+    <text x="175" y="545" font-size="16" font-weight="bold" fill="#667eea" text-anchor="middle" font-family="Arial, sans-serif">
+      Repository Type
+    </text>
+    <text x="175" y="575" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      Static Content Archive
+    </text>
+    <text x="175" y="595" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      (No Application Code)
+    </text>
+    <text x="175" y="615" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      Public &amp; Open Access
+    </text>
+  </g>
+  
+  <g>
+    <rect x="325" y="520" width="250" height="110" rx="8" fill="#f0f4ff" stroke="#667eea" stroke-width="1.5"/>
+    <text x="450" y="545" font-size="16" font-weight="bold" fill="#667eea" text-anchor="middle" font-family="Arial, sans-serif">
+      Primary Audience
+    </text>
+    <text x="450" y="575" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      Workshop Participants
+    </text>
+    <text x="450" y="595" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      AI Learners &amp;
+    </text>
+    <text x="450" y="615" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      Researchers
+    </text>
+  </g>
+  
+  <g>
+    <rect x="600" y="520" width="250" height="110" rx="8" fill="#f0f4ff" stroke="#667eea" stroke-width="1.5"/>
+    <text x="725" y="545" font-size="16" font-weight="bold" fill="#667eea" text-anchor="middle" font-family="Arial, sans-serif">
+      File Formats
+    </text>
+    <text x="725" y="575" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      PPTX • PDF • PNG • SVG
+    </text>
+    <text x="725" y="595" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      Markdown • Images
+    </text>
+    <text x="725" y="615" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      (Documentation Hub)
+    </text>
+  </g>
+  
+  <g>
+    <rect x="875" y="520" width="245" height="110" rx="8" fill="#f0f4ff" stroke="#667eea" stroke-width="1.5"/>
+    <text x="997" y="545" font-size="16" font-weight="bold" fill="#667eea" text-anchor="middle" font-family="Arial, sans-serif">
+      Getting Started
+    </text>
+    <text x="997" y="575" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      Clone the repo &amp;
+    </text>
+    <text x="997" y="595" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      open README.md
+    </text>
+    <text x="997" y="615" font-size="13" fill="#333" text-anchor="middle" font-family="Arial, sans-serif">
+      Browse PDF/PPTX files
+    </text>
+  </g>
+  
+  <!-- Key Features -->
+  <text x="50" y="660" font-size="14" font-weight="bold" fill="#333" font-family="Arial, sans-serif">
+    🚀 Key Features:
+  </text>
+  
+  <text x="50" y="690" font-size="13" fill="#555" font-family="Arial, sans-serif">
+    ✨ Comprehensive AI fundamentals training materials • 📊 Structured curriculum with presentations &amp; assignments
+  </text>
+  <text x="50" y="715" font-size="13" fill="#555" font-family="Arial, sans-serif">
+    • 🛠️ AI tools organized by domain • 💼 Career &amp; research preparation resources • 📖 Open educational archive
+  </text>
+  
+  <!-- Footer -->
+  <rect x="0" y="750" width="1200" height="50" fill="rgba(0,0,0,0.2)"/>
+  <text x="600" y="780" font-size="12" fill="#e0e0ff" text-anchor="middle" font-family="Arial, sans-serif">
+    Repository: Chandusurya577535/Mind-Map | Created: 2026 | Access: Public | Purpose: AI Education &amp; Workshop Materials
+  </text>
+</svg>
